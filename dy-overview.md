@@ -8,6 +8,18 @@
 * Paste the heroku/site url i nthe `Website URL` field
 
 
+#### JS Exercise
+
+* Spend some time practicing building out a mock page entirely within javascript. Codepen is recommended for this exercise but is the developers choice. 
+* Add this to your html and the rest should be done in javascript: 
+```
+<header id="banner"></header>
+<div id="main"></div>
+```
+* The end result should look as:
+![Top Part of Solution](/assets/js_exercise_top.png)
+![Bottom Part of Solution](/assets/js_exercise_bottom.png)
+
 #### Injecting DY
 
 * Once the test environment is properly set up, now it's time to get familair with DY
@@ -28,6 +40,7 @@
 
 #### Checklist
 
+* Complete JS Exercise
 * Live site
 * Hero-image (2 variations)
 * 2+ Custom Actions
