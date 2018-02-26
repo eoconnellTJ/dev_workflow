@@ -17,6 +17,7 @@
 <div id="main"></div>
 ```
 * The end result should look as:
+
 ![Top Part of Solution](/assets/js_exercise_top.png)
 ![Bottom Part of Solution](/assets/js_exercise_bottom.png)
 
